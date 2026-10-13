@@ -1,0 +1,9 @@
+name,value
+mortality_improvement_male,0.01
+mortality_improvement_female,0.01
+shock_mortality,1.0
+shock_mortality_improvement,1.0
+shock_turnover,1.0
+shock_salary_growth,1.0
+share_lump_sum,0.1
+share_life_payment,0.9
